@@ -85,7 +85,7 @@ IoT: For Blynk, include `<BlynkSimpleEsp32.h>`. Authenticate with API keys/token
  Wiring and Power
  
 Assemble the circuit as per the Circuit & Wiring section above. Double-check connections.  
-
+![image alt](https://github.com/adarshkulal638-debug/npk-soil-monitoring-system/blob/b5f2b385cb55d466f41d0fa64897edf02e9467ef/938ebbb0-6564-490e-8aa1-a43c0dc492a9-copied-media~2.jpg)
 
 Power: Connect 5V (or chosen supply) to NPK sensor VCC and moisture sensor VCC. The Arduino’s 5V pin or an external 9V/12V adapter (regulated to 5V) can be used. The ESP32 requires 3.3V for logic but the sensor’s power can still be 5V (just share grounds).  
 
