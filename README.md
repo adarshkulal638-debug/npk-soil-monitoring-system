@@ -94,6 +94,7 @@ Ensure common ground between all parts.
  Monitor Output
  
 Open Serial Monitor . The readings seen like:
+![image alt](https://github.com/adarshkulal638-debug/npk-soil-monitoring-system/blob/576b59549cdf71e526550e841adef0a78fc0ead8/Screenshot_20260725-103934.Photos.jpg)
   
   Nitrogen: 12 mg/kg, Phosphorus: 16 mg/kg, Potassium: 33 mg/kg, Moisture: 92
   (Values vary by sensor and soil).  
