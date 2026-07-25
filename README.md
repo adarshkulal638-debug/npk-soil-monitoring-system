@@ -54,7 +54,9 @@ Remote monitoring: Optionally send data to an IoT cloud Blynk app for visualizat
 User-friendly interface: Provide clear output formats and thresholds
 
 Scalability: Design for expansion (e.g. additional sensors like temperature, pH, or adding actuators for irrigation).  
+
 Block Diagram
+![image alt](https://github.com/adarshkulal638-debug/npk-soil-monitoring-system/blob/599e9edb463efca7f7319c915bc14fa32a15739b/Screenshot_20260725-103926.Photos.jpg)
 
 Firmware Overview
 
