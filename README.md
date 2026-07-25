@@ -3,6 +3,7 @@
 Smart Soil Nutrient Monitoring System Using NPK and Soil Moisture Sensor
 
 Executive Summary:
+
 This project implements a Smart Soil Nutrient Monitoring System   that continuously measures critical soil parameters Nitrogen (N), Phosphorus (P), Potassium (K) along with soil moisture. It uses sensors NPK sensor with RS485 Interface and soil moisture sensor connected to a microcontroller Arduino  to collect data. The data is processed and can be viewed locally on a serial monitor and optionally sent to an Blynk app for remote monitoring. This system aims to aid farmers and researchers with real-time soil analytics for precision agriculture, optimizing fertilizer use and irrigation. 
 
 The Smart Soil Nutrient Monitoring System measures soil fertility by reading N, P, K nutrient levels and moisture content in real time. It typically consists of:
